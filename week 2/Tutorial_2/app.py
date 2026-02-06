@@ -1,4 +1,3 @@
-from pyexpat.errors import codes
 from pydantic import BaseModel, Field, ValidationError
 #Q1) Lookup with a fallback
 
